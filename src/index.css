@@ -1,0 +1,33 @@
+html {
+  min-height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+  min-height: 100%;
+  padding-bottom: 5rem;
+}
+
+header {
+  margin-top: 3rem;
+}
+header h1 {
+  color: #033E8C;
+}
+.colorsecond{
+  color:#02735E
+}
+.colorprimary{
+  color: #023859;
+}
+ .text {
+  color:#023859;
+  text-decoration: none;
+  background-color: transparent;
+ }
+
+ a:link, a:visited, a:active {
+  text-decoration:none;
+}
